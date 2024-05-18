@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Imtiaztheanalyst
+- 👀 I’m interested in data
+- 🌱 I’m currently doing data science and analysis or machine learning
+- 💞️ I’m looking to collaborate on every issue related to data
+- 📫 Her how you make contact with me imtiaztheanalyst@gmail.com
